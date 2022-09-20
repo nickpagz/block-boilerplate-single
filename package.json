@@ -14,15 +14,12 @@
 		"plugin-zip": "wp-scripts plugin-zip",
 		"start": "wp-scripts start"
 	},
-	"prettier": "@wordpress/prettier-config",
 	"stylelint": {
 		"extends": "@wordpress/stylelint-config/scss"
 	},
 	"devDependencies": {
 		"@wordpress/eslint-plugin": "^13.1.0",
-		"@wordpress/prettier-config": "^2.0.0",
 		"@wordpress/scripts": "^24.1.0",
-		"@wordpress/stylelint-config": "^21.0.0",
-		"prettier": "^2.7.1"
+		"@wordpress/stylelint-config": "^21.0.0"
 	}
 }
